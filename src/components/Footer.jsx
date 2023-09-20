@@ -18,7 +18,7 @@ const Footer = () => {
         <h2>Social Media</h2>
 
         <article>
-          <a href="https://youtube.com/@samtech6252" target={"blank"}>
+          <a href="https://www.linkedin.com/in/shyam-munde-841168249" target={"blank"}>
             <AiFillLinkedin />
           </a>
           

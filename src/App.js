@@ -24,19 +24,21 @@ const App =() =>{
     };
   }, [ratio]);
 
-  return (
+  return ratio < 3 ? (
     <>
-    <HeaderPhone  menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
-     <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen}  />
-     <Home ratio={ratio} />
-     <Work />
-     <Timeline />
-     <Services />
-     <Contact />
-     <Footer />
-     <Toaster />
+      <HeaderPhone menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
+      <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
+      <Home ratio={ratio} />
+      <Work />
+      <Timeline />
+      <Services />      
+      <Contact />
+      <Footer />
+      <Toaster />
     </>
-  )
+  ) : (
+    <em id="customMessage">Please Change the ratio to View!</em>
+  );
 }
 
 export default App;
