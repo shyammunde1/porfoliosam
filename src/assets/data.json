@@ -4,14 +4,14 @@
     {
       "date": "01/03/2023",
       "title": "Samtech Movie",
-      "description": "This is the sample description about the project details. The more details the more details and evenually more details because I don't have anything to write",
-      "url": "https://react-crypto-app-pi.vercel.app",
+      "description": "This webapp is to use search movie on the basis of category.please visit the website and check it.click below button. ",
+      "url": "https://samtech-movie-ss.netlify.app",
       "imgSrc": "https://cdn.pixabay.com/photo/2016/11/21/12/51/mobile-phone-1845233__340.jpg"
     },
     {
       "date": "15/04/2023",
       "title": "React Cart",
-      "description": "This is the shoping product project.You can visit the app please click below button",
+      "description": "This is the shop cart project.You can visit the app please click below button",
       "url": "https://shopmate-cr-ul.netlify.app",
       "imgSrc": "https://media.istockphoto.com/id/1249219777/photo/shopping-online-concept-parcel-or-paper-cartons-with-a-shopping-cart-logo-in-a-trolley-on-a.jpg?s=2048x2048&w=is&k=20&c=RjYs5hYBJddTuiIhHokANVdvVfh89yl1YRCIxheJkzw="
     },    
